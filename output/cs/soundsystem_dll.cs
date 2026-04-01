@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-03-25 20:55:37.792396900 UTC
+// 2026-04-01 18:51:29.418818 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: soundsystem.dll

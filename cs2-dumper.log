@@ -1,5 +1,5 @@
-20:55:36 [INFO] found 16 buttons
-20:55:36 [INFO] found 131 interfaces across 33 modules
-20:55:37 [INFO] found 32 offsets across 5 modules
-20:55:37 [INFO] found 3102 classes and 447 enums across 18 modules
-20:55:37 [INFO] analysis completed in 1.35s
+18:51:28 [INFO] found 16 buttons
+18:51:28 [INFO] found 131 interfaces across 33 modules
+18:51:29 [INFO] found 32 offsets across 5 modules
+18:51:29 [INFO] found 3102 classes and 447 enums across 18 modules
+18:51:29 [INFO] analysis completed in 1.36s
